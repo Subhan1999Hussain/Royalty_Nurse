@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373588636242",
+    "project_id": "royalty-nurses",
+    "storage_bucket": "royalty-nurses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373588636242:android:c73a2a5d7039df8a1e258b",
+        "android_client_info": {
+          "package_name": "com.example.royalty_nurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373588636242-3bidijbkgrh3q2f62fd87j5rjreep3ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.royalty_nurse",
+            "certificate_hash": "d0856ae00b335437cfc045f481b0e1995891dc79"
+          }
+        },
+        {
+          "client_id": "373588636242-b942jminmjsksvhfmtr6e4t4gvun6ge4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2vJmhQNf91DFvHQ5OnOTQfiTmW2l89oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373588636242-b942jminmjsksvhfmtr6e4t4gvun6ge4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
